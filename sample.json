@@ -1,0 +1,4282 @@
+[
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Zitha Steph"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Zimba Gift"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Vhavhedzani Zwoluga"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Vara Naledi"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Tshukudu Njabulo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Tshoana Paballo"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Tshivhula Khuliso"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Tshishonga Adivhaho"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Tshirundu Thilivhali"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Tshirundu Orifha"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Tshikweta Rudzani"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Tshikweta Rinae"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Tshifhango Kuthadzo"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Tshibaro Ondwela"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Tshiashi Thakhani"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Tshiambaro Ronewa"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Tshenyane Joseph"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Tshehla Puseletso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Tshehla Nakedi"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Tshehla Lesego"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Tsetseoa Kgaogelo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Tsele Jenet"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Tseke Nkopodi"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Tseisi Nurendeni"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Tjia Olga"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Thovhala Tshilidzi"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Thomoli Nyadzani"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Thokwane Mohlatse"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Thogwane Jason"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Thobakgale Advice"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Thipe Tshiamo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Thipe Lebogang"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Thilowa Wavhudi"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Theledi Miclus"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Tharaga Lutendo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Thagane Oratile"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Talane Anna"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Skosana Potego"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Skhosana Nini"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Singo Phuluso"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Singo Nompha"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Siluna Mulweli"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Sihlangu Sibusiso"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Sigama Riwela"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Sibonda Palesa"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Shongwe Siyamthada"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Shogole Tumelo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Shaba Itumeleng"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Sesane Releabetswe"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Serwala Mmmabatho"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Sereku Lefa"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Seopela Prenier"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Seopela Bongani"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Seolela Phetogo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Senong Kagiso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Senona Mandla"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Senona Itumeleng"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Selwane Serities"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Selwane Sello"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Selowa Ishmael"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Sello Phologo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Selepe Molebogeng"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Selala Boipelo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Sekhukhune Koketso"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Sekhina Fhulufhelo"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Sekete Nkareng"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Segwana Niccodimus"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Segone Dineo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Segokodi Lesego"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Segaba Duncan"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Sebola Liseli"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Sebeka Ronewa"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Sebeka Hlompho"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Sebeka Boitshepo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Sebaia Hlokomelo"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Se;pme Tshwarelo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Sambatha Sinovuyo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Sadiki Thapelo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Sadiki Promise"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Sadiki Ndivhuwo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Sadiki Hudivhene"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Rnatele Hulisani"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Relebona Mahlatse"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Ravele Muvhuso"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Ravele Lerato"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Ratshilumela Dzulali"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Ratau Kutloano"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Ratapala Nelly"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Raswiswi Ampfarisaho"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Rasilingwane Ritonde"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Raseluka Pretty"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Raphokwana Moloko"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Raphiri Brilliant"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Raphadi Phululani"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Rantho Mphahu"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Rantho Boitumelo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Rangwana Vilolet"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Ranala Dimpho"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Ramphisa Maje"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Rampedi Katlego"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Ramoroka Lehlogonolo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Ramogayane Koketso"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Rambau Thasululo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Rambau Rotondwa"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Rambau Adivhaho"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Ramatje Poeletso"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Ramango Mpho"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Ramanaledi Lefa"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Ramalobela Ngoako"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Ramakgetle Kutlwano"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Ramakgatle Boneetse"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Ramaisha Tumelo"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Ramagoma Anangoho"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Ramadje Kethego"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Ramacha Lerato"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Ralufuluvhi Vhuhulu"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Raliswinga Adivhaho"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Raletswitswi Brilliant"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Rakwena Ramolwetsi"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Raksetse Khomotso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Rakgetsi Rorisang"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Radingwana Rethabile"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Rachosi Kemelo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Piitso Kgothatso"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Phoku Paulus"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Phetla Momotshabo"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Phaswana Ndinae"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Phaswana Mulisa"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Phasha Pretyy"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Phahlamohlaka Thabang"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Paile Diketso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Nyoni Amogelang"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Nyathi Zanele"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Nyathi Themba"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Nyamande Tshiko"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Ntwampe Temoso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Ntuli Zanele"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Ntuli Sfiso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Ntuli Lesego"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Ntuli Leago"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Ntobeng Kamogelo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Ntlhane Kgothatso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Ntjana Lebo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Nkuna Karabo"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Nkosi Vhutali"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Nkosi Tshepang"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Nkosi Simphiwe"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Nkosi Chantel"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Nkoana Nyadiwa"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Nkoana Badudi"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Nkadimeng Jennider"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Nkadimeng Enocent"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Nkabende Nkele"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Ngwenya King"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Ngubeni Nomthandazo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Ngoatle Kutullo"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Nevombe Munelwa"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Netshifhefhe Tsireledzo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Netshifhefhe Rendani"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Netshianane Talifhani"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Nethavhani Rebecca"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Nesane Ndivhuwo"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Nenzhelele Makonde"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Nenngwekhulu Rolivhuwa"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Nemudzivhadi Mpho"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Nembidzana Tsireledzo"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Nelushi Khalwndo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Nduli Karabo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Ndouvhada Rohula"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Ndou Tovhowani"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Ndou Ntodaho"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Nathu Mpho"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Nathu Khomotjo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Nakana Kamogelo"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Muvhali Ompha 2006"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Muupo Victor"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Mutshiya Ananani"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mutheiwana Tshilo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mutheiwana Ampfarisaho"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mutavhatsindi Nyaluso"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mutavhatsindi Londani"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Muswane Mpho"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mushanganyisi Angel"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Mushadu Uhone"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Murovhi Gladys"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Muofhe Nndweleni"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Munyai Vhutali"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Munyai Vhahagwale"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Munyai Rofhiwa"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Munyai Rinae"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Munyai Phathutshedzo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Munyai Perseverance"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Munyai Ompha"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Munwayi Hataluli"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mungome Rotshenelwa"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Muluvhu Wavhuthuhawe"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Muluvhu Uzwothe"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mulaudzi Wandeme"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mulaudzi Wamashudu"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mulaudzi Hlamulo"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mukosi Rotenda"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mukondeleli Murangi"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mukhuthi Murendeni"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mukhoro Pfano"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mukgobanama Lesego"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mugwena Rothe"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mugwena Muofhe"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mudumela Wavhutali"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mudogwa Tshedza"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mudau Vutomi"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mudau Denzhe"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mudau Aron"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mudamadi Nduvho"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mtshwani Khanyisile"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mthombeni Mojalefa"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mthombeni Lethabo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mthombeni Innocent"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mthathi Mbavhalelo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mswanganyi Ntsako"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Msiza Precious"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Msiza Mathabatha"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Msiza Ayanda"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Mpofu Howard"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mphephu Respect"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mphela Karabo"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mpakwe Orinea"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Moyo Agnes"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Motubatsi Oratile"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Motsweni Nosphiwe"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Motswene Moali"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Motshwane Tetelo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mothiba Mosa"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mothe Kabelo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Moteme Tshepang"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Moteme Mampho"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOTAU STEVEN"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Moswa Mogalane"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mosusemeli Tshilidzi"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mosoane Amogelang"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Moshoaneng Nkatugeng"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOSHIDI OFENTSE"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mosethal Thatego"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOSELANE TSHEGOFATSO"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Moselakgomo Rodgers"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOSEHLANE MAPONYANE"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mosehla Tshepang"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mosehla Tebatso"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mosehla Mashego"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mosehla Malose"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mosana Phemelo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Morwamohube Kholofelo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MORUWE MAHLATSE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MORUMUDI HELLEN"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MORUDU MMAMOKETE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MORUDU KOKETSO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MORUANE MONNI"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOROKA ESTHER"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Morena Vusile"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOREBA TUMI"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOREBA TUMELO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOPHUTING MARIA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOPHUTING KENEILWE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOPHUTENG VIOLET"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOPHUTENG SINKI"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOPHUTENG EDWARD"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mooketsi Thabi"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mookamedi Thato"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOOBI MARIA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MONYEKI MMANTOA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MONYEKI JOHANNES"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MONYEKI JOHANNA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MONYEKI HLOKOFATSO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MONYEKI HENDRICK"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MONENE LEHLOGONOLO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MONARENG KATLEGO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MONARENG JACOB"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MONANYANE PHOESA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MONANYANE MOSIMA"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Monama Rasethetse"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Monama Lefule"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Monama Dipuo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MONAKEDI TIYISO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLWANTWA MMAKWENA"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Molope Thato"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Molopane Pleasure"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLOKOMME SAMUEL"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLOKOMME KOKETSO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLOKOMME GABAUTLWELE"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Moloala Kgotsofala"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Molewa Angel"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Moleswene Kanyang"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEPOLLE NEO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEPOLLE MPHO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEPOLLE MAGDLINE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEPOLLE KOKETSO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEPOLLE KARABO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEPOLLE ALFRED"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLELO DINEO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKWA THABISO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKWA SOLLY"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKWA SEKUBU"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKWA RAPULA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKWA POLLEN"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKWA MPHO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKWA MMAFEANA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKWA MERIAM"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKWA MAREA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKWA LUKAS"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKWA KGOMOTSO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKOA THAPELO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKOA THAPELO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKOA THABANG"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKOA TABIA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKOA SOLOMON"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKOA ONICCA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKOA MPHO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKOA MADIMETJA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKOA KOKETSO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKOA JOHANNA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKOA FULLET"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEKOA ANDRIES"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEFE THATO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEFE LEBO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOLEBALOA ORATILE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOKWENA TSIRI"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mokwena Tebogo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mokwana Refilwe"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mokwana Pelokgolo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mokwana Leago"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mokwana Kamogelo"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mokwana Billy"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mokone Khomotso"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mokolo Mishel"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mokolo Khomotso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mokoena Zintle"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOKOENA SUZAN"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOKOENA SAMUEL"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mokoena Mishelle"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mokoena Mahlatse"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOKOENA LOUIZA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOKOBANE KATLEGO"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mokoana Thandy"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mokgwadi Ofentse"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mokgwadi Malesela"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mokgwadi Kgothatso"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mokgwadi Bradley"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mokgoatjane Mosa"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOKGABUDI THABILE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOKAU PLANTINA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOKAU LERATO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOKAU FRANS"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mokana Keamogetse"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOJELA DIKELEDI"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOIMA MMAPHATE"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mohlape Dimpho"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mohlala Tiisetso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mohlala Mogau"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mohlala Lebogang"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mohlala Kgomotso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mohlala Kgaogelo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mohlala Keitumetse"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mohlala Gontse"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mohlala Future"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mohlala  Diphoofolo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOHAPI REELELITSOE"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mohale Seshoka"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mohale Itumeleng"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mogwane Eselina"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mogudi Mahlatse"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mogoto Koketso"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOGOTLANE THABISO"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mogomane Tseke"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mogomane Blessing"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mogodime Motlalepule"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mogasoa Rethabile"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mogashoa Peter"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mogashoa Lebo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mogashoa Beauty"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Moganedi Thabo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Moganedi Mahlako"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOGANE SURPRISE"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mogajane Brett"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOENG JEREMINAH"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Moela Tswanelo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Moela Tshegofatso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Moela Mahlatse"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOEKETSI MAROBU"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Modishane Deborah"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MODISE MMAPULA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MODISE LIZZY"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MODIMOLA THOMAS"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MODIMOLA SERETSE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MODIMOLA SELLO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MODIMOLA SAMUEL"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MODIMOLA SAMUEL"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MODIMOLA PAULINA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MODIMOLA MMOKWENA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MODIMOLA LETHABO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MODIMOLA JOHN"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MODIMOLA CAROLINE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MODIMOLA BETHUEL"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MODIMOLA ANNA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOATSHE LEBO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOATSHE LAZARUS"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOATSHE KEFILO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOATSHE JOSEPH"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOATSHE DAVID"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOABI SOLLY"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOABI MALEBO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOABI LISBETH"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOABI KRESTINA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOABE MOJALEFA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOABE MARTHA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MOABE JOHANNAH"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MMEKWA PIET"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mmatladi Bareng"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Mmaloli Ntombi"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mmako Rachel"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mkhabela Tsakane"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Mkapila Thama"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MHLANGA ROFHIWA"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mhlanga Ramakwale"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Metsi Dikeledi"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Metse Tshepo"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Mbedzi Elekanyani Eugine"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mawela Lungelo"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mavhungu Tshilidzi"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Mavhungu Shudufhadzo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mauna Naomi"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mauna Musolwa"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Maumela Mulweli"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATSWASSA TINTSWALO"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Matshika Mogorosi"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATSHEHA MMALEHU"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATSHAYA PABATSO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATLOU TSHEPISO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATLOU TSHEPANG"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATLOU THEBISO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATLOU SETSWAKAE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATLOU SELLO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATLOU SEFORA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATLOU MPHO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATLOU MAHLATSE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATLOU MADINA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATLOU LEBOGANG"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATLOU KOKETSO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATLOU JOSEPH"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATLOU DESIA"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Matloga Takalani"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Matloga Humbulani"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATLHARE NKANE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATLHABE NTSHIMODI"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATLHABE MBOMA"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Matlala Lethlogonolo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Matlala Lesego"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Matlala Kgobokwane"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Matladi Khomotso"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATJILA STOFFEL"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATJILA SOLLY"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATJILA REMOGODITSWE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATJILA MAREA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATJILA MAJOALA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATJILA LAKATSA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATJILA KAGISO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATJILA HELLEN"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATJILA BEN"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATJILA ANDRIES"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mathye Masungulo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mathunyane Ponego"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mathunyane Lesedi"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mathunyane Fancy"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mathunyane Bolekane"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mathunyane Boikgantsho"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATHONZI HLAMALANI"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Mathogolo Andani"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mathebula Realeboga"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATHEBULA MAHLATSE"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mathatha Keabetswi"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Matamela Liralo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATABOLOGA WINNIE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MATABOLOGA LOVENESS"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MASWEZI GABOTLENG"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MASIU MATLHATSE"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Masithulela Pfano"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MASINGI PAUL"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Masingi Anwani"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Masindi Muneiwa"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Masia Surprise"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mashiloane Thabang"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mashilo Khensani"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MASHILO KATLEGO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MASHIGO RAISIBE"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mashigo Phomotso"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mashifane Mabolele"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mashifane Letlotlo"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mashifane Lawrance"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mashifane Keamogetswe"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mashifane Karabo"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mashifane Clement"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MASHIANE PHEMELO"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Mashete Livhuwani"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MASHELE MPHO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MASHELE BADUMELANE"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mashego Reuben"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mashau Lufuno"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mashau Andani"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MASHASHA CONNIE"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mashao Charlote"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mashabela Pheladi"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MASHABANE NCHAKO"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Masha Katlego"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Masha Chantelle"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Masetlane Neo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MASENYA JOHANNAH"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Masemola Prince"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Masemola Poseletso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Masemola Moagi"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Maselesele Murandani"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Masehla Princess"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Masango Kamogelo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MASALESA TIMOTI"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MASALESA LERATO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MASALESA KGOTLELLO"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Marule Sibusiso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Maruga Given"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAROPOLA PORTIA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAROPOLA MARIA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAROPENG MAHLATSI"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAROKANE SAMUEL"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mariri Phetolo"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Maringa Ntshuxelo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MARINGA CLOUD"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MARIMA LETTIE"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Maredi Makopi"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Maredi Betty"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAPUTLA MARRY"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Maphosa Tendani"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Maphonga Ngobile"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Maphiri Rineilwe"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Manyuma Dakalo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Manyaka Tetelo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Manyaka Balekane"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mankge Welcome"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MANGQASANA ESETHU"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MANGANYI KABELO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MANGANYI DINEO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MANGANYE KENEILWE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MANGANYE AARON"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Manganya Vusimusi"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MANGANHE SOIL"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MANGANHE ABETINA"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mandlaze Tryphosa"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Manchidi Lesego"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MANCANA LESIBA"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Manakane Dimakatso"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MANAFA NEIL"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mampuru Mogau"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mamonyane Eloitha"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mamogale Kemisetso"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAMARIRI RATUKU"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mamahlodi Vanesa"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mamahlodi Rocky"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mamahlodi Advocate"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mamahlodi Acodinywa"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Maluleke Precious"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Maluleke Ntsako"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Maluleke Immanuel"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MALULEKA POSNATA"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Malu Ofentse"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Maltjie Martha"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Malope Palesa"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MALOPE MAHLATSE"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Maloma Tsaac"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Maloma Palesa"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Malesoene Kamogelo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MALEPA SOPHIA"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Malela Tshepo"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Maleka Thabang"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Malau Khutso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Malatsi Bobby"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Malatsi Bob"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Malatji Keitumetse"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Malaka Khomotso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Malaka Cedrick"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Malaka Amber"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Makwala Thato"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Makumbe Unarine"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Makua Tumelo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Makua Neo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Makua Nadia"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Makua Luckyboy"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Makua Lesego"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Makota Nonkululeko"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Makota Basetsana"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Makolane Kabelo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Makola Tetelo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Makola Dimpho"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAKINTA JACOB"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Makhubele Pfunzo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Makhosa Leboga"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Makhado Tshilidzi"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Makhado Ndiene"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAKGWANE MOKGAETSI"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAKGOALO CHRISTINA"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Makgatha Ditshego"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Makgalatiba Zanele"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Makgalatiba Kelebogile"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Makgalatiba Hazel"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Makgalatiba Boikano"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Makgalatiba Antonia"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAKGAI PIET"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAKGAI KABELO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAKGAI HERMAN"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAKGAE MPHO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAKGAE LUCAS"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Makena Paballo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Makena Mebo"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Makau Thuto"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Makatu Ronewa"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Makananisa Pfumo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAKADE HOPOLANG"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAKABOLE DIKELEDI"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Makaba Mathatho"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Makaba Donald"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Makaba Ditabeng"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAJAFIBODU COLLEN"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAJADIBODU TSHEPISO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAJADIBODU MARY"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAJADIBODU MARTINS"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAJADIBODU DIPUO"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Maimmburu Mulaedza"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mailula Tshiamo"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Maila Bonolo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAIFALA MOSA"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Maibelo Karabo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mahwayi Votomi"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mahumana Sakhile"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mahuma Lerato"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mahloele Mothothwane"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mahloele Mmutlane"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mahlare Tshephang"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mahlare Ashely"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mahlangu Sbusiso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mahlangu Gift"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mahlaba Keabetswi"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mahasha Bright"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mahangela Kopano"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mahaba Innocent Khuthadzo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Magolego Ponego"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Magolego Letang"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Magoela Tshwarelo"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Magoela Enough"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Magoela Clifford"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Magoela Brandon"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Magedi Karabo"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Magane Surprise"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Magane Patric"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Magakwe Zandile"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Magakwe Gift"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Magajane Matsepe"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Magahle Tshegofatso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Magaela Ofentse"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Magadani Phathutshedzo"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Magadani Khakhu Velda"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAFORA THATO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAFORA TEBOGO"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mafoho Nkavelo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAFIFI MOKETE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAFIFI MATELUDI"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAFIFI MASHILO"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mafdza Uhona"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mafatle Keitumetse"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAETELETJA DINA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAEMA SELLO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAEMA SALOME"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAEMA MATETE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MAEMA JONES"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Maelane Keabetswe"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Madzi Takalani"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Maduwa Nzambululo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Maduwa Nthabiseng"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Maduwa Mubulaheni"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Maduwa Mashudo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Madula Thendo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Maditsi Given"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Madileng Lesego"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Madihleba Meso"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Madihlaba Thato"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MADIBANA MADIGA"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Madalo Respect"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MACHIDI REFILWE"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Machethe Sharance"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MACAMU KESANI"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mabuza Khodani"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MABUSELA MMATHAPELO"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Mabulele Orinea"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MABULA SELLO"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mabotha Taelo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MABOTE WINNY"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MABOTE OLETILWE"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mabona Ofentse"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Mabitla Beauty"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Mabila Ngoho"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "MABETWA SEFONKI"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mabena Mpho"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mabeleja Rethabile"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mabeleja Repholusitswe"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Mabelane Shepang"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mabasa Utshembekile"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mabasa Surprise"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Mabada Tsanwane"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Maake Pfunzo"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Maabane Tshepang"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Maabane Tshegofatso"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Maabane Relebogile"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Maaba Naledi"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Maaba Katlego"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Luvhani Ronewa"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Luvhani Mulisa"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LUKHELE SAMUEL"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Litshani Tshanduko"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Lingwadi Sithembile"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Letsiri Thabang"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LETLHAKA THOMAS"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LETLHAKA MORAKANE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LETLHAKA KGOTHATO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LETLAPE JACOB"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Lethole Mushe"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LERUMO FRANCINA"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Lerobane Kgaugelo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LELAKA ROSINA"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Lekwadu Boikgantsho"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LEKOTO MAITE"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LEKOTO MAHLATSI"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LEKOTO KAGISO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LEKALAKALA ROSINA"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Lekala Makgethule"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LEHUTSO JOHANNA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LEHUTJO JOSEPH"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Lehungwane Tiisetso"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Lehihi Junior"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Legwati Thembelihle"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Legodi Bonolo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LEFOKO TSHEPISO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LEFOKA KOKETSO"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Lefika Katlego"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Lebopa Pontsho"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LEBONA TSHIDISO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LEBESE TSHEPO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LEBESE LESIBA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LEBELO MMUSO"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Lebea Karabo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Langa Promise"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LAKA TSHEPO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LAKA MATSHIDISO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LAKA KGAUGELO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "LAKA KAMOGELO"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Kwinda Nyawdzani"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KWANAITE CRISTA"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Kompi Tshokolo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Komane Thabang"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Komane Morewane"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KOBE TSHEPHO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KOBE MMAPULA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KOBE ITUMELENG"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KITI DIKELEDI"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KHWINANA SARA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KHWINANA SANNY"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KHOZA LESTA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KHOSA LERATO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KHONOTHI GEELBOOI"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Khaphola Tetelo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KHANYA TIISETSO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KHANYA LETHABO"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Khaloshe Avhatshileli"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KGOPO WILLIAM"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KGOMONTSHO LEBOGANG"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Kgomo Tshepo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KGOMO PAULINA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KGOMO MAHLABA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KGOMO KUTULLO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KGOMO DITHETO"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Kgoete Katlego"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Kgatla Hlakanetso"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KGASEMENE SOLOMON"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Kgaripane Tshegofatso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Kgaphola Baatseba"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Kgalema Johanna"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Kgaketla Dineo"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Kgagara Thakgalo"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Kgaditse Boitshelo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KGADIMA JOSEPHINA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KGABO TSHEIRELETSO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KENOSI TEMOSO"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Kekana Amos"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KEKAI SAMUEL"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KEKAE CATHY"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "KATWANE MERIAM"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Kabini Thabo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "HLONGWANE SELLO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "HLONGWANE KWAKHE"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Gomba Lutendo"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Godzwana Talifhani"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "GAGA TINTSWALO"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Fakude Karabo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "ERNERON JAN"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "ELANI JERRY"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "ELANE THOKOA"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "ELANE KAMOGELO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "ELANE ANNAH"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "DITSEBE EPHRAIM"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Disegoane Paris"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Dinki Tshepong"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Dingi Zuziwe"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "DINAKE MORRIS"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Dikgole Katlego"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Digato Khutso"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Dibiloane Katlego"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Diamini Sibonile"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Desegwana Khotazani"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Chosane Makgale"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Choenyane Boitumelo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Chipape Shrmaine"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Chego Palesa"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "CHAUKE VHIKANE"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Chauke Nelly"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "CHAUKE MMELERE"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Chauke Last"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Chagane Thebe"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Chagane Caious"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "BOYA ITUMELENG"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Boshielo Sehala"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Boshielo Moseleke"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "BODIBA MARLY"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "BJALOANE THATO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "BJALOANE THABANG"
+  },
+  {
+    "grade": "8",
+    "school": "Maserumula High",
+    "name": "Biko Emanuel"
+  },
+  {
+    "grade": "8",
+    "school": "Refilwe Second",
+    "name": "Basoga Mishell"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "BASHIANE REBECCA"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Baloyi Tintswalo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Baloyi Takalani"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Baloyi Ripfumelo"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Baloyi Pfumo"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "BALOYI NNA"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Baloyi Nkuriso"
+  },
+  {
+    "grade": "1",
+    "school": "Maridze",
+    "name": "Baloyi Nkateko"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "BALOYI MATOME"
+  },
+  {
+    "grade": "1",
+    "school": "Rambuluwani",
+    "name": "Baloyi Hlayisani"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "BALOYI DIKELEDI"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "BALOYI DIKELEDI"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "BALOYI DIKELEDI"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "BALOI TEBATSO"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "BALI MOSES"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "ANUWIRA ANDRIES"
+  },
+  {
+    "grade": "8",
+    "school": "SOBIACO SECONDARY",
+    "name": "ABBAS LERATO"
+  },
+  {
+    "grade": "1",
+    "school": "Ramabulana",
+    "name": "Moraba Mulalo"
+  }
+]
